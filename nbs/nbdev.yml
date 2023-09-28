@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://l-wardrope.github.io/nbdev-hello-world"
+  description: "Hello world with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/l-wardrope/nbdev-hello-world"
